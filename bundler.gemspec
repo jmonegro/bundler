@@ -5,7 +5,7 @@ require 'bundler/version'
 
 Gem::Specification.new do |spec|
   spec.name        = 'bundler'
-  spec.version     = Bundler::VERSION
+  spec.version     = '1.3.0'
   spec.licenses    = ['MIT']
   spec.authors     = ["André Arko", "Terence Lee", "Carl Lerche", "Yehuda Katz"]
   spec.email       = ["andre@arko.net"]
